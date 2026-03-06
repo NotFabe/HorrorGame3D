@@ -1,2 +1,2 @@
 # HorrorGame3D
-Small Prorejct
+Small Project
