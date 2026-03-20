@@ -1,0 +1,65 @@
+Jede Woche 1x Meeting (Wochenende)
+Aufwand: 50 Stunden/Person
+
+Tools:
+
+Discord - Kommunikation
+
+Unreal Engine 5 - Entwicklungs-Tool
+
+Github Desktop - Versionskontrolle
+(https://github.com/NotFabe/HorrorGame3D)
+
+Trello - Task-Management
+(https://trello.com/invite/b/69aea2fdcff4d81aee73cec5/ATTIcedec6485d9433b6ab44058a137e7f8c313BCAE5/horrorgame3d)
+
+
+Idee:
+
+Ein Horrorspiel, das in einer verlassenen Schule spielt.
+
+Mechaniken:
+
+Unter Tischen/in Lüftungschächten verstecken
+Sprint/Stamina System
+Taschenlampe
+Schlüsselkarte sammeln -> Bereiche freischalten
+Lichter die flackern wenn Monster in der Nähe ist
+Monster (eventuell mehrere) kann nicht besiegt werden
+Ziel ist es zu entkommen 
+	
+
+1.ter Sprint Plan:
+
+Almin - Sounds Recherche 
+Fabian - Duck-Funktion
+Max - Basic Enemy AI
+Sebastian - Konzept welche Objekte gebraucht werden  
+Severin - 1.ter Raum Layout 
+
+
+Meetingprotokoll:
+
+07.03
+Mitglieder zu dem GitHub Projekt hinzugefügt
+Aufgaben zugewiesen
+	Charakter - Fabian
+	Level - Severin
+	Gegner - Max
+	Sounds - Almin
+	Objekte - Sebastian
+
+08.03
+Setting/Mechaniken besprochen
+
+
+09.03 
+Erstes Meeting mit Ing. Martin Docsek MSc
+Sprint 1 besprochen
+
+
+21.03
+Bisherige Abgaben für Sprint 1 besprochen
+
+Fabian (Duck-Funktion umgesetzt und Charakter angepasst (110 Minuten))
+
