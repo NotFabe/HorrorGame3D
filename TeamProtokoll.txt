@@ -62,4 +62,10 @@ Sprint 1 besprochen
 Bisherige Abgaben für Sprint 1 besprochen
 
 Fabian (Duck-Funktion umgesetzt und Charakter angepasst (110 Minuten))
+Severin (Erster Raum erstellt, Grundlagen von Leveldesign gelernt (360 Minuten))
+Almin (Sounds Recherche (120 Minuten))
+Sebastian (Objekt Recherche für Klassenzimmer & Angefangen Objekte in Blender zu erstellen(300 Minuten))
+Max (Basic AI (/ Minuten - fehlt))
+Nächster Termin mit Ing. Martin Docsek MSc (Montags ganztags, Mittwoch ab 17 Uhr, Donnerstag ab 15 Uhr)
+
 
