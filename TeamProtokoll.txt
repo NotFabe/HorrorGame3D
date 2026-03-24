@@ -65,7 +65,7 @@ Fabian (Duck-Funktion umgesetzt und Charakter angepasst (110 Minuten))
 Severin (Erster Raum erstellt, Grundlagen von Leveldesign gelernt (360 Minuten))
 Almin (Sounds Recherche (120 Minuten))
 Sebastian (Objekt Recherche für Klassenzimmer & Angefangen Objekte in Blender zu erstellen, Basic Objekte in den Klassenraum eingefügt und angepasst an Spieler(450 Minuten))
-Max (Basic AI (/ Minuten - fehlt))
+Max (Basic AI - Enemy Blueprint / Enemy Controller Erstellt (150 Minuten))
 Nächster Termin mit Ing. Martin Docsek MSc (Montags ganztags, Mittwoch ab 17 Uhr, Donnerstag ab 15 Uhr)
 
 
