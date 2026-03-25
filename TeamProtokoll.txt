@@ -69,3 +69,7 @@ Max (Basic AI - Enemy Blueprint / Enemy Controller Erstellt (150 Minuten))
 Nächster Termin mit Ing. Martin Docsek MSc (Montags ganztags, Mittwoch ab 17 Uhr, Donnerstag ab 15 Uhr)
 
 
+25.03
+Meeting mit Ing. Martin Docsek MSc (Sprint 1 Review)
+
+
