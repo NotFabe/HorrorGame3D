@@ -59,7 +59,7 @@ Sprint 1 besprochen
 
 
 21.03
-Bisherige Abgaben für Sprint 1 besprochen
+Bisherige Abgaben für Sprint 1 (24.03) besprochen
 
 Fabian (Duck-Funktion umgesetzt und Charakter angepasst (110 Minuten))
 Severin (Erster Raum erstellt, Grundlagen von Leveldesign gelernt (360 Minuten))
@@ -70,6 +70,16 @@ Nächster Termin mit Ing. Martin Docsek MSc (Montags ganztags, Mittwoch ab 17 Uh
 
 
 25.03
-Meeting mit Ing. Martin Docsek MSc (Sprint 1 Review)
+Meeting mit Ing. Martin Docsek MSc (Sprint 1 Review)(Hat nicht stattgefunden)
+
+
+27.03
+Planung für Sprint 2 (14.04) besprochen 
+Fabian (Sprint/Stamina System mit User Interface / Kamera beim ducken richten (120 min)) 
+Max (Skin/Animationen (240 min))
+Almin (Crouch/Gegner Sounds Implementieren(120 min))
+Severin (Stockwerk fertig machen (Gang + 2 Räume)(300 min))
+Sebastian (Objekt/Material Recherche, Räume/Gang von Severin dekorieren (240 min))
+
 
 
