@@ -81,5 +81,13 @@ Almin (Crouch/Gegner Sounds Implementieren(120 min))
 Severin (Stockwerk fertig machen (Gang + 2 Räume)(300 min))
 Sebastian (Objekt/Material Recherche, Räume/Gang von Severin dekorieren (240 min))
 
+04.04
+Besprechung möglicher Gegner Charaktere 
+
+
+
+
+
+
 
 
