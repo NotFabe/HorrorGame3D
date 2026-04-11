@@ -88,6 +88,13 @@ Termin ausgemacht für nächstes Meeting (11.04)
 
 
 11.04
+Bisherige Abgabe für Sprint 2 besprochen
+
+Fabian (Sprint Funktion / Taschenlampe (0 Minuten))
+Severin (Maplayout erweitert, Lichteffekte/Post Processing (420 Min))
+Sebastian ((240 Min))
+Almin (())
+Max (())
 
 
 
