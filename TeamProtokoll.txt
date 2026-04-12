@@ -94,7 +94,7 @@ Fabian (Sprint Funktion / Taschenlampe (240 Minuten))
 Severin (Maplayout erweitert, Lichteffekte/Post Processing (420 Min))
 Sebastian ((240 Min))
 Almin (())
-Max (())
+Max (Skin für Enemy / Animationen  erstellt/angepasst (300 min))
 
 
 
