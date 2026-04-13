@@ -96,6 +96,11 @@ Sebastian ((240 Min))
 Almin (())
 Max (Skin für Enemy / Animationen  erstellt/angepasst (300 min))
 
+13.04
+Abgabe für Sprint 2 besprochen
+
+Sebastian (Keycard in blender erstellt und bei PS angefangen texture zu erstellen, Objekte in Klassenzimmer 1 & 2 und im Gang befüllt. Kollisionen und BP gelernt und angewendet. Tür Animation mit E für Charakter hinzugefügt.(540 Minuten))
+
 
 
 
