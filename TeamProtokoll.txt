@@ -51,11 +51,14 @@ Aufgaben zugewiesen
 
 08.03
 Setting/Mechaniken besprochen
+(Dauer: 30 Min)
 
 
 09.03 
 Erstes Meeting mit Ing. Martin Docsek MSc
 Sprint 1 besprochen
+(Dauer: 90 Min)
+
 
 
 21.03
@@ -67,6 +70,8 @@ Almin (Sounds Recherche (120 Minuten))
 Sebastian (Objekt Recherche für Klassenzimmer & Angefangen Objekte in Blender zu erstellen, Basic Objekte in den Klassenraum eingefügt und angepasst an Spieler(450 Minuten))
 Max (Basic AI - Enemy Blueprint / Enemy Controller Erstellt (150 Minuten))
 Nächster Termin mit Ing. Martin Docsek MSc (Montags ganztags, Mittwoch ab 17 Uhr, Donnerstag ab 15 Uhr)
+(Dauer: 60 Min)
+
 
 
 25.03
@@ -80,11 +85,13 @@ Max (Skin/Animationen (240 Minuten))
 Almin (Crouch/Gegner Sounds Implementieren(120 Minuten))
 Severin (Stockwerk fertig machen (Gang + 2 Räume)(300 Minuten))
 Sebastian (Objekt/Material Recherche, Räume/Gang von Severin dekorieren (240 Minuten))
+(Dauer: 60 Min)
 
 04.04
 Auswahl für Gegner Design
 Mouse Input Problem gelöst
 Termin ausgemacht für nächstes Meeting (11.04)
+(Dauer: 60 Min)
 
 
 11.04
@@ -95,6 +102,7 @@ Severin (Maplayout erweitert, Lichteffekte/Post Processing (420 Minuten))
 Sebastian ((240 Minuten))
 Almin (())
 Max (Skin für Enemy / Animationen  erstellt/angepasst (300 Minuten))
+(Dauer: 60 Min)
 
 13.04
 Abgabe für Sprint 2 besprochen
@@ -104,7 +112,7 @@ Fabian (Sprint Funktion / Taschenlampe (240 Minuten))
 Almin (240 Minuten)
 Severin (Maplayout erweitert, Lichteffekte/Post Processing (420 Minuten))
 Max (Skin für Enemy / Animationen  erstellt/angepasst (300 Minuten))
-
+(Dauer: 60 Min)
 Termin ausgemacht für nächstes Meeting (20.04)
 
 
@@ -118,7 +126,35 @@ Almin (Sounds (600 Minuten))
 Sebastian (Weitere Objekte hinzufügen (600 Minuten))
 Fabian (Menüs / Taschenlampe verbessern (240 Minuten))
 
+Termin ausgemacht für nächstes Meeting (27.04)
+(Dauer: 60 Min)
+
 
 22.04
-Meeting mit Ing. Martin Docsek MSc
+Meeting mit Ing. Martin Docsek MSc:
+-Schätzpoker als Methode um Arbeitsaufwand für nächsten Sprint zu ermitteln
+
+-Trello:
+	-Beschreibung bei den Tasks auf Trello (leichteres Verständnis für neue Leute im Team)
+	-Requierements wann etwas erledigt ist
+	-Zeitabschätzung und Priorisierung bei den Tasks
+	-Umsortierung (Backlog, Für jeden Sprint eine Spalte, )
+
+-Sprint Protokoll:
+	-Req ID matchen mit Trello Board ID
+	-Passed und Failed ausfüllen (X reinmachen ob etwas geschafft wurde oder nicht)
+	-Remarks ausfüllen (Warum wurde etwas geschafft/ nicht geschafft, Zeitunterschied beschreiben warum hat etwas länger/kürzer gedauert)
+	 auch wenn etwas positiv war einbinden
+
+-Sprint Retroperspektive
+	-4L-Methode (unten an Sprint Protokoll anhängen für jede Person)
+
+Nächstes Meeting mit Ing. Martin Docsek MSc 30.04 10:00 Uhr
+(Dauer: 60 Min)
+
+
+27.04
+
+	
+
 
