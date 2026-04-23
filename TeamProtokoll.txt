@@ -138,7 +138,7 @@ Meeting mit Ing. Martin Docsek MSc:
 	-Beschreibung bei den Tasks auf Trello (leichteres Verständnis für neue Leute im Team)
 	-Requierements wann etwas erledigt ist
 	-Zeitabschätzung und Priorisierung bei den Tasks
-	-Umsortierung (Backlog, Für jeden Sprint eine Spalte, )
+	-Umsortierung (Backlog, Für jeden Sprint eine Spalte)
 
 -Sprint Protokoll:
 	-Req ID matchen mit Trello Board ID
