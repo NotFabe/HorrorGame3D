@@ -154,6 +154,9 @@ Nächstes Meeting mit Ing. Martin Docsek MSc 30.04 10:00 Uhr
 
 
 27.04
+Abgabe für Sprint 3 besprochen 
+Fabian (Taschenlampe verbessert, Menüs implementiert / verbessert (600 Minuten))
+
 
 	
 
