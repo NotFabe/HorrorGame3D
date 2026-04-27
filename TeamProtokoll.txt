@@ -154,8 +154,27 @@ Nächstes Meeting mit Ing. Martin Docsek MSc 30.04 10:00 Uhr
 
 
 27.04
-Abgabe für Sprint 3 besprochen 
+Abgabe für Sprint 3 & 4 besprochen
+ 
+Sprint Protokoll ausgefüllt
+
+Sprint 3 Abgabe:
 Fabian (Taschenlampe verbessert, Menüs implementiert / verbessert (600 Minuten))
+Max (Lose Condition/Enenmy Animation Part 2(600 Minuten))
+Severin (Stiegenhaus und Gang/ Stockwerk fertigt gemacht (540 Minuten))
+Almin (Footsteps, Taschenlampe und Türsounds(540 Minuten))
+Sebastian (Keycard, Türlogik und Badezimmerobjekte(360 Minuten))
+
+Aufgaben für Sprint 4:
+Max (Animations Part 3 (Strafen und Turnen, Walkspeed anpassen), Gegner kann Türen öffnen / Pathfinding,(300 Minuten))
+Severin (Unteres Stockwerk/Aufzug/Turnhalle((480 Minuten))
+Almin (Footsteps anpassen,Ambientsounds(Musik,Geräusche)Erschöpfungsounds, Chase Sound / Enemy Footsteps(540 Minuten))
+Sebastian (Restlichen Keycards erstellen / Texturen fixen, Objekte in Räume von Severin platzieren, Badezimmer / Türen anpassen (540 Minuten))
+Fabian (Menüs fixen, Reset Settings in den Optionen, Keycardssystem umsetzen (240 Minuten))
+
+(Dauer: 120 Minuten)
+
+Nächstes Meeting (04.05)
 
 
 	
