@@ -173,8 +173,17 @@ Sebastian (Restlichen Keycards erstellen / Texturen fixen, Objekte in Räume von
 Fabian (Menüs fixen, Reset Settings in den Optionen, Keycardssystem umsetzen (240 Minuten))
 
 (Dauer: 120 Minuten)
-
 Nächstes Meeting (04.05)
+
+
+30.04 
+Meeting mit Ing. Martin Docsek MSc
+Trello Task Requierements genauer beschreiben 
+Sprache einheitlich 
+Nächstes Meeting mit Ing. Martin Docsek MSc 13.05 15:30 Uhr 
+(Dauer 30 Minuten)
+
+
 
 
 	
