@@ -183,6 +183,16 @@ Sprache einheitlich
 Nächstes Meeting mit Ing. Martin Docsek MSc 13.05 15:30 Uhr 
 (Dauer 30 Minuten)
 
+11.05
+Bisherige und Aufgaben für Sprint 5 besprochen
+Max(NavMesh Probleme beheben und Gegner bug-Fixing (600 Minuten))
+Almin(Sounds anpassen, fehlende Sounds implementieren (600 Minuten))
+Severin(Level fertigstellen, Fehler beheben (600 Minuten))
+Sebastian(Neue Räume mit neuen Objekten platzieren (540 Minuten))
+Fabian(Crouch Spam fixing, UI Anpassen(300 Minuten))
+
+Nächstes Meeting 18.05 20:00 Uhr
+
 
 
 
