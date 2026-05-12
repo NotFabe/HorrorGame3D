@@ -191,6 +191,7 @@ Severin(Level fertigstellen, Fehler beheben (600 Minuten))
 Sebastian(Neue Räume mit neuen Objekten platzieren (540 Minuten))
 Fabian(Crouch Spam fixing, UI Anpassen(300 Minuten))
 
+(Dauer: 90 Minuten)
 Nächstes Meeting 18.05 20:00 Uhr
 
 
