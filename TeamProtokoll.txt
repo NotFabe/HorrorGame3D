@@ -200,6 +200,16 @@ Fortschritt bis jetzt gut eingehalten
 Nächstes Meeting mit Ing. Martin Docsek MSc 02.06 08:00 Uhr
 (Dauer 30 Minuten)
 
+19.05
+Kurzes Meeting Zwecks Fortschritt
+Almin (Keycards Sound eingefügt, Schritte angepasst)
+Severin (Aufzug- und Ventmodell erstellt)
+Sebastian (Tor und Korb hinzugefügt)
+Max (Charakterlogik neu gebaut)
+Fabian (Keycard counter Widget angepasst)
+(Dauer 30 Minuten)
+
+
 
 
 
