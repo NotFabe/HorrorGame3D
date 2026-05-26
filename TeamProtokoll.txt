@@ -218,7 +218,7 @@ Severin (Löcher in Böden behoben und NavMesh Fehler behoben, Aufzug und Lüftu
 
 Aufgaben für Sprint 6:
 Severin (Beleuchtung und Bug-Fixing(180 Minuten))
-Almin (Enemy chase music, Erschöpfung/Steps/Crouch/Vent hall Sounds())
+Almin (Enemy chase music, Erschöpfung/Steps/Crouch/Vent hall Sounds(540 Minuten))
 Sebastian (Kleine Objekte, Details und Feinanpassungen in die einzelnen Räume und Gänge hinzufügen())
 Max (State Tree konvertierung, Spawnpoints, TürLogik, Skin Anpassung, HideLogik (720 Minuten))
 Fabian (Crouch Funktion überarbeiten, Intro erstellen (240 Minuten))
