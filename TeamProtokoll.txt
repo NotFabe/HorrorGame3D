@@ -223,9 +223,23 @@ Sebastian (Kleine Objekte, Details und Feinanpassungen in die einzelnen Räume u
 Max (State Tree konvertierung, Spawnpoints, TürLogik, Skin Anpassung, HideLogik (720 Minuten))
 Fabian (Crouch Funktion überarbeiten, Intro erstellen (240 Minuten))
 
-
 (Dauer 90 Minuten)
 Nächstes Meeting Montag 01.06 20:00 Uhr
+
+01.06
+Platzierung der Keycards im Level besprochen
+Aufgetretene/Aktuelle Probleme besprochen 
+
+Fabian(Exit Sign zum Leuchten bringen, Sound der Lampen zu 3D umwandeln, Tür beim Turnsaal öffnen sobald Orange Keycard gescannt wurde, Keycardscanner Position dynamisch anpassbar machen, Staubpartikel im Lüftungsschacht, Spieler zwingen Taschenlampe zu nehmen)
+Max(Gegner soll vor dem Turnsaal spawnen sobald die Orange Keycard gescannt wird)
+Almin(Musik abspielen sobald Spieler gesehen wird und während er verfolgt wird, Schritte im Vent an Schrittgeschwindigkeit anpassen und etwas leiser machen, Spieler während er kriecht Schritte leiser)
+Sebastian(Papiertextur/Poster mehr Variation)
+Severin(Light bleeding fixen (rotes licht bei Aufzug geht durch die wände),Türrahmen neu, Harte Schatten ändern/entfernen)
+
+(Dauer 120 Minuten)
+Nächstes Meeting Montag 08.06 20:00 Uhr
+
+
 
 
 
