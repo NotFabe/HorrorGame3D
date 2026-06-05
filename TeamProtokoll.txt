@@ -228,9 +228,9 @@ Nächstes Meeting Montag 01.06 20:00 Uhr
 
 01.06
 Platzierung der Keycards im Level besprochen
-Aufgetretene/Aktuelle Probleme besprochen 
+Aufgetretene/Aktuelle Probleme besprochen 1
 
-Fabian(Exit Sign zum Leuchten bringen, Sound der Lampen zu 3D umwandeln, Tür beim Turnsaal öffnen sobald Orange Keycard gescannt wurde, Keycardscanner Position dynamisch anpassbar machen, Staubpartikel im Lüftungsschacht, Spieler zwingen Taschenlampe zu nehmen)
+Fabian(Exit Sign zum Leuchten bringen(10 Minuten), Sound der Lampen zu 3D umwandeln, Tür beim Turnsaal öffnen sobald Orange Keycard gescannt wurde, Keycardscanner Position dynamisch anpassbar machen(5 Minuten), Staubpartikel im Lüftungsschacht, Spieler zwingen Taschenlampe zu nehmen(30 Minuten))
 Max(Gegner soll vor dem Turnsaal spawnen sobald die Orange Keycard gescannt wird)
 Almin(Musik abspielen sobald Spieler gesehen wird und während er verfolgt wird, Schritte im Vent an Schrittgeschwindigkeit anpassen und etwas leiser machen, Spieler während er kriecht Schritte leiser)
 Sebastian(Papiertextur/Poster mehr Variation)
