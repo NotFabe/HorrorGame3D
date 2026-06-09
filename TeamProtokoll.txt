@@ -228,7 +228,7 @@ Nächstes Meeting Montag 01.06 20:00 Uhr
 
 01.06
 Platzierung der Keycards im Level besprochen
-Aufgetretene/Aktuelle Probleme besprochen 1
+Aufgetretene/Aktuelle Probleme besprochen 
 
 Fabian(Exit Sign zum Leuchten bringen(10 Minuten), Sound der Lampen zu 3D umwandeln, Tür beim Turnsaal öffnen sobald Orange Keycard gescannt wurde, Keycardscanner Position dynamisch anpassbar machen(5 Minuten), Staubpartikel im Lüftungsschacht, Spieler zwingen Taschenlampe zu nehmen(30 Minuten))
 Max(Gegner soll vor dem Turnsaal spawnen sobald die Orange Keycard gescannt wird)
@@ -245,6 +245,14 @@ Presentations Video:
 Wie man Managementmäßig vorgegangen ist, wie wir das Projekt umgesetzt haben, was für Probleme aufgetreten sind.
 Nächstes Meeting mit Ing. Martin Docsek MSc 17.06 08:00 Uhr
 (Dauer 30 Minuten)
+
+08.06
+Bisherige Abgaben für Sprint 6 und weitere Aufgaben besprochen
+
+
+
+Nächstes Meeting Donnerstag 11.09 18:00 Uhr
+
 
 
 
