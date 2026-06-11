@@ -249,9 +249,23 @@ Nächstes Meeting mit Ing. Martin Docsek MSc 17.06 08:00 Uhr
 08.06
 Bisherige Abgaben für Sprint 6 und weitere Aufgaben besprochen
 
-
-
 Nächstes Meeting Donnerstag 11.09 18:00 Uhr
+Dauer(30 Minuten)
+
+
+11.06
+Besprechung zwecks Abgaben für die finale Abgabe (23.06)
+Namen des Spieles entschieden (Detention)
+
+Almin (Schritte im Luftschacht noch leiser machen)
+Severin (NavMesh in der Mensa anpassen, Wand Collider richten)
+Sebastian (Mehr Texturvariation für Poster)
+Fabian (Zettel mit Anweisung für Spieler im Level platzieren, Dropsound im Vent)
+Max (Gegner muss noch durch die Scanner laufen können)
+
+Nächstes Meeting 16.06 15:30
+(Dauer 60 Minuten)
+
 
 
 
