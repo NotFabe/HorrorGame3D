@@ -250,7 +250,7 @@ Nächstes Meeting mit Ing. Martin Docsek MSc 17.06 08:00 Uhr
 Bisherige Abgaben für Sprint 6 und weitere Aufgaben besprochen
 
 Nächstes Meeting Donnerstag 11.09 18:00 Uhr
-Dauer(30 Minuten)
+(Dauer 30 Minuten)
 
 
 11.06
@@ -266,7 +266,56 @@ Max (Gegner muss noch durch die Scanner laufen können)
 Nächstes Meeting 16.06 15:30
 (Dauer 60 Minuten)
 
+16.06
+Besprechung für die finale Abgabe (Struktur, welche Dokumente müssen vorhanden sein)
 
+upload all the artefacts you created during your project in one single ZIP archive. Upload all your files in an editable format (pptx, doc,...) use this folder structure:
+
+	/application [folder containing your application form] (Exe.datei ?)
+
+	/protocols [e.g. review protocol,...] (TeamProtokoll.txt, Sprint Reviews)
+
+	/documentation [every type of documentation you created; e.g. architectureal description] (?)
+
+	/SourceCode [sourcecode or link to public repo] (Git Repo)
+
+	/presentation [editable file of your presentation] (?)
+
+7.ter Sprint ?
+Dauer des Zeitaufwandes eintragen ? (Arbeitsstunden + Meetings)
+
+Attention: 
+
+
+For all of your documents define a template including all relevant information (title page, what is it about, to which project does it belong, team members, headlines, page numbering, ...)(?)
+
+User manual:
+(Wie startet man das Spiel, Tastaturbelegung, Ziel des Spieles)
+Create a user manual which contains all necessary user credentials to run the application. create a brief description on how to use your application. (approx. 1-10 pages)
+
+Deployment manual: (?)
+
+Create a description of all steps which are necessary to deploy your application. think about dependencies to other applications or libraries. (approx. 2-5 pages)
+
+
+Presentation Video: (?)
+
+The video should last up to 5 min (max) 
+The video should contain info about the idea of the project, the implementation, planning of the project as well as the current status.
+(Teamprotokoll, Schätzpoker, Wöchentliche Meetings, Trello-Board, Sprint Reviews)
+Video Format: playable in VLC 3.0.11 standard config
+
+Folgende Tasks müssen noch erledigt werden bevor wir die Exe. Datei testen können:
+	-Gegner open door logic
+	-Winning Sound ändert
+	-Namen im Hauptmenü ändern
+
+(Dauer 30 Minuten)
+
+
+
+17.06
+Meeting mit Ing. Martin Docsek MSc:
 
 
 
