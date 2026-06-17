@@ -191,7 +191,7 @@ Severin(Level fertigstellen, Fehler beheben (600 Minuten))
 Sebastian(Neue Räume mit neuen Objekten platzieren (540 Minuten))
 Fabian(Crouch Spam fixing, UI Anpassen(300 Minuten))
 
-(Dauer: 90 Minuten)
+(Dauer: 90 Minuten) 
 Nächstes Meeting 18.05 20:00 Uhr
 
 13.05
@@ -271,51 +271,104 @@ Besprechung für die finale Abgabe (Struktur, welche Dokumente müssen vorhanden
 
 upload all the artefacts you created during your project in one single ZIP archive. Upload all your files in an editable format (pptx, doc,...) use this folder structure:
 
-	/application [folder containing your application form] (Exe.datei ?)
+	/application [folder containing your application form] (Exe.datei)
 
 	/protocols [e.g. review protocol,...] (TeamProtokoll.txt, Sprint Reviews)
 
-	/documentation [every type of documentation you created; e.g. architectureal description] (?)
+	/documentation [every type of documentation you created; e.g. architectureal description] (user Manual, deployment manual)
 
 	/SourceCode [sourcecode or link to public repo] (Git Repo)
 
-	/presentation [editable file of your presentation] (?)
+	/presentation [editable file of your presentation] (Powerpoint)
 
-7.ter Sprint ?
-Dauer des Zeitaufwandes eintragen ? (Arbeitsstunden + Meetings)
+7.ter Sprint (können machen)
+Dauer des Zeitaufwandes eintragen  (Arbeitsstunden + Meetings) extra Datei in protocols Ordner/Slide in Präsentation
+Ablauf Präsentation:
+	-Je nach Video
+	-Eventuell ein Meeting mit Ing. Martin Docsek MSc wenn es noch Fragen nach der Präsentation gibt
 
 Attention: 
 
 
-For all of your documents define a template including all relevant information (title page, what is it about, to which project does it belong, team members, headlines, page numbering, ...)(?)
+For all of your documents define a template including all relevant Information (title page, what is it About, to which project does it belong, team members, headlines, page numbering, ...)
+-User Manual/Deployment Manual/(SmartHomeServer2 Projekt als Referenz)
 
 User manual:
 (Wie startet man das Spiel, Tastaturbelegung, Ziel des Spieles)
 Create a user manual which contains all necessary user credentials to run the application. create a brief description on how to use your application. (approx. 1-10 pages)
 
-Deployment manual: (?)
+Deployment manual:
 
 Create a description of all steps which are necessary to deploy your application. think about dependencies to other applications or libraries. (approx. 2-5 pages)
+-Windows 10 zb, eventuelle zusätzliche Software wenn vorhanden, Wenn nur die Exe. Datei dann reicht das auch.
 
 
-Presentation Video: (?)
+Presentation Video:
 
 The video should last up to 5 min (max) 
 The video should contain info about the idea of the project, the implementation, planning of the project as well as the current status.
-(Teamprotokoll, Schätzpoker, Wöchentliche Meetings, Trello-Board, Sprint Reviews)
+(Von Idee ausgehend, warum Unreal Engine ?, konnte alles umgesetzt werden ?, Teamprotokoll, Schätzpoker, Wöchentliche Meetings, Trello-Board, Sprint Reviews)
 Video Format: playable in VLC 3.0.11 standard config
+
+
 
 Folgende Tasks müssen noch erledigt werden bevor wir die Exe. Datei testen können:
 	-Gegner open door logic
 	-Winning Sound ändert
 	-Namen im Hauptmenü ändern
 
+Aufgabenaufteilung der Dokumente:
+-/protocols, /Sourcecode, /application (Fabian)
+-Video (Max & Sebastian)
+-Deployment manual & User manual & template (Almin)
+-/presentation (Severin)
+
+
+Nächstes Meeting 21.06 20:00 Uhr
 (Dauer 30 Minuten)
 
 
 
 17.06
 Meeting mit Ing. Martin Docsek MSc:
+Besprechung betreffend der finalen Abgabestruktur
+
+Template:
+-User Manual/Deployment Manual/(SmartHomeServer2 Projekt als Referenz)
+
+Deployment manual:
+-Windows 10 zb, eventuelle zusätzliche Software wenn vorhanden, Wenn nur die Exe. Datei dann reicht das auch.
+
+Presentation Video:
+-Von Idee ausgehend, warum Unreal Engine ?, konnte alles umgesetzt werden ?, Teamprotokoll, Schätzpoker, Wöchentliche Meetings, Trello-Board, Sprint Reviews
+
+Dauer des Zeitaufwandes eintragen  (Arbeitsstunden + Meetings) extra Datei in protocols Ordner/Slide in Präsentation
+
+Ablauf Präsentation:
+	-Je nach Video
+	-Eventuell ein Meeting mit Ing. Martin Docsek MSc wenn es noch Fragen nach der Präsentation gibt
+
+
+
+(Dauer 30 Minuten)
+
+
+21.06
+
+
+
+Finaler Arbeitsaufwand:
+- Arbeit an dem Projekt (Stunden):
+
+		Dzanic Almin 46,5  
+		Hauser Severin 41,6
+		Matuszyk Sebastian 58				
+		Strenn Maximilian 47
+		Tykalsky Fabian	44,2							
+								
+- Meetings:
+	1250 Minuten
+	
 
 
 
